@@ -36,9 +36,10 @@ Displays metrics side by side using `st.columns()` and plots real-time temperatu
 
 ---
 
-## 🖼️ Dashboard Screenshot
+## Dashboard Screenshot
 
-![Real-Time IoT Dashboard](Screenshot 2025-06-15 at 21.57.24.png)
+![Real-Time IoT Dashboard](dashboard.png)
+
 
 ---
 

@@ -42,19 +42,17 @@ Displays metrics side by side using `st.columns()` and plots real-time temperatu
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
-
-
-'''
-├── sensor_producer.py # Simulates and publishes sensor data
-├── alert.py # Detects high temperature and emits alerts
-├── alert_counter.py # Counts alerts in 5s window and writes to topic
-├── avg_temperature.py # Computes 10s average temperature
-├── dashboard.py # Streamlit app for visualization
-├── dashboard.png # Screenshot of dashboard
-└── README.md # Project documentation
-'''
+```text
+.
+├── sensor_producer.py         # Simulates and publishes sensor data
+├── alert.py                   # Detects high temperature and emits alerts
+├── alert_counter.py           # Counts alerts in 5s window and writes to topic
+├── avg_temperature.py         # Computes 10s average temperature
+├── dashboard.py               # Streamlit app for visualization
+├── dashboard.png              # Screenshot of dashboard
+└── README.md                  # Project documentation
 
 
 
